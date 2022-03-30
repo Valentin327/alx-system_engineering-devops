@@ -1,3 +1,2 @@
 #!/bin/bash
-#My first script that print the absolute path name of the current worjking directory
 pwd
