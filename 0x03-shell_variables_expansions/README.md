@@ -14,5 +14,7 @@ Create a script that lists environment variables.
 Create a script that lists all local variables and environment variables, and functions.
 ----Task 6. Local variable 
 Create a script that creates a new local variable.
+----Task 7. Global variable 
+Create a script that creates a new global variable.
  
 
