@@ -10,6 +10,7 @@ Create a script that creates an alias. (
 Create a script that prints hello user, where user is the current Linux user.
 ----Task 4.Global variables 
 Create a script that lists environment variables.
-
+----Task 5.Local variables 
+Create a script that lists all local variables and environment variables, and functions.
  
 
