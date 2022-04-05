@@ -26,7 +26,10 @@ Write a script that displays the result of BREATH to the power LOVE
 
     BREATH and LOVE are environment variables
     The script should display the result, followed by a new line
+----Task 13. Floats 
+Write a script that prints a number with two decimal places, followed by a new line.
 
+The number will be stored in the environment variable NUM.
 
  
 
