@@ -1,3 +1,4 @@
 #!/bin/bash
-export BINARY=10100111001|echo $((2#$BINARY))
+ echo $((2#$BINARY))
+
 
