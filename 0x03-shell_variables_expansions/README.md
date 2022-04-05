@@ -7,5 +7,9 @@ Create a script that creates an alias. (
     Value: rm *
 )
 ----Task 1. Hello you
-Create a script that prints hello user, where user is the current Linux user. 
+Create a script that prints hello user, where user is the current Linux user.
+----Task 4.Global variables 
+Create a script that lists environment variables.
+
+ 
 
