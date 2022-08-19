@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Script for loop and processes
+
+while true
+do
+	echo 'To infinity and beyond'
+	sleep 2
+done
